@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
+| [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
