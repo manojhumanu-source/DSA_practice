@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manojhumanu-source/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manojhumanu-source/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manojhumanu-source/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manojhumanu-source/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manojhumanu-source/DSA_practice/tree/master/0344-reverse-string) |
