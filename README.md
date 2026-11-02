@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/manojhumanu-source/DSA_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/manojhumanu-source/DSA_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0509-fibonacci-number) |
