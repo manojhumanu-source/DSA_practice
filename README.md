@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manojhumanu-source/DSA_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/manojhumanu-source/DSA_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/3099-harshad-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manojhumanu-source/DSA_practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -91,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manojhumanu-source/DSA_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
