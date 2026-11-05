@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manojhumanu-source/DSA_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/manojhumanu-source/DSA_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manojhumanu-source/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manojhumanu-source/DSA_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/3099-harshad-number) |
 ## Sorting
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/manojhumanu-source/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -80,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manojhumanu-source/DSA_practice/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
