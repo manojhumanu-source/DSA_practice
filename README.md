@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/manojhumanu-source/DSA_practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manojhumanu-source/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manojhumanu-source/DSA_practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manojhumanu-source/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/manojhumanu-source/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
