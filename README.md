@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/manojhumanu-source/DSA_practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/manojhumanu-source/DSA_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/manojhumanu-source/DSA_practice/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/manojhumanu-source/DSA_practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
