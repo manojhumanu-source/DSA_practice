@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manojhumanu-source/DSA_practice/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/manojhumanu-source/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
