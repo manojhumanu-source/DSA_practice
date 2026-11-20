@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/manojhumanu-source/DSA_practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -165,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/manojhumanu-source/DSA_practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
