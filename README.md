@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manojhumanu-source/DSA_practice/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manojhumanu-source/DSA_practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/manojhumanu-source/DSA_practice/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/manojhumanu-source/DSA_practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
