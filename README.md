@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manojhumanu-source/DSA_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manojhumanu-source/DSA_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1486-xor-operation-in-an-array) |
 | [3099-harshad-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/3099-harshad-number) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/manojhumanu-source/DSA_practice/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/manojhumanu-source/DSA_practice/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manojhumanu-source/DSA_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
