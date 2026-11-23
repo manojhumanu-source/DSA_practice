@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/manojhumanu-source/DSA_practice/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/manojhumanu-source/DSA_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/manojhumanu-source/DSA_practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/manojhumanu-source/DSA_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
