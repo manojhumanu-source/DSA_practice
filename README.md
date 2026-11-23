@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/manojhumanu-source/DSA_practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/manojhumanu-source/DSA_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/manojhumanu-source/DSA_practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/manojhumanu-source/DSA_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manojhumanu-source/DSA_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3099-harshad-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/3099-harshad-number) |
 ## Sorting
