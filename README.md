@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manojhumanu-source/DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/manojhumanu-source/DSA_practice/tree/master/0933-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manojhumanu-source/DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/manojhumanu-source/DSA_practice/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manojhumanu-source/DSA_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/manojhumanu-source/DSA_practice/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/manojhumanu-source/DSA_practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
