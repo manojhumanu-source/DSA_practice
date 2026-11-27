@@ -1,48 +1,72 @@
 
+import java.util.Random;
+
 class Solution {
 
-    public int[] sortArray(int[] nums) {
+    Random random = new Random();
 
+    public int[] sortArray(int[] nums) {
         quickSort(nums, 0, nums.length - 1);
         return nums;
     }
 
     void quickSort(int[] arr, int low, int high) {
 
-        if (low >= high) {
-            return;
-        }
+        while (low < high) {
 
-        int pivot = arr[low + (high - low) / 2];
+            if (high - low < 16) {
+                insertionSort(arr, low, high);
+                return;
+            }
 
-        int lt = low;
-        int i = low;
-        int gt = high;
+            int pivotIndex = low + random.nextInt(high - low + 1);
+            int pivot = arr[pivotIndex];
 
-        while (i <= gt) {
+            int lt = low;
+            int i = low;
+            int gt = high;
 
-            if (arr[i] < pivot) {
+            while (i <= gt) {
 
-                swap(arr, lt, i);
-                lt++;
-                i++;
+                if (arr[i] < pivot) {
+                    swap(arr, lt++, i++);
+                }
+                else if (arr[i] > pivot) {
+                    swap(arr, i, gt--);
+                }
+                else {
+                    i++;
+                }
+            }
 
-            } else if (arr[i] > pivot) {
-
-                swap(arr, i, gt);
-                gt--;
-
+            // Process smaller partition first
+            if (lt - low < high - gt) {
+                quickSort(arr, low, lt - 1);
+                low = gt + 1;
             } else {
-                i++;
+                quickSort(arr, gt + 1, high);
+                high = lt - 1;
             }
         }
+    }
 
-        quickSort(arr, low, lt - 1);
-        quickSort(arr, gt + 1, high);
+    void insertionSort(int[] arr, int low, int high) {
+
+        for (int i = low + 1; i <= high; i++) {
+
+            int key = arr[i];
+            int j = i - 1;
+
+            while (j >= low && arr[j] > key) {
+                arr[j + 1] = arr[j];
+                j--;
+            }
+
+            arr[j + 1] = key;
+        }
     }
 
     void swap(int[] arr, int i, int j) {
-
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
