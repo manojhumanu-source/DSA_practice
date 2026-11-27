@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manojhumanu-source/DSA_practice/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/manojhumanu-source/DSA_practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manojhumanu-source/DSA_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manojhumanu-source/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manojhumanu-source/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manojhumanu-source/DSA_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manojhumanu-source/DSA_practice/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/manojhumanu-source/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Floyd's Cycle Finding Algorithm
@@ -149,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/manojhumanu-source/DSA_practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manojhumanu-source/DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -192,4 +196,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/manojhumanu-source/DSA_practice/tree/master/0933-number-of-recent-calls) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manojhumanu-source/DSA_practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
